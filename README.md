@@ -1,4 +1,4 @@
-# Photogrammetry
+# Photogrammetry (Kirkel memorial I found in local cemetry)
 Here just an example of the photogrammetry done by me from scratch. Couple of years ago I took ~140 pictures of one memorial I found in [Kirkel, Saarland](https://en.wikipedia.org/wiki/Kirkel). Exact location where jhe memorial stands is [here](https://www.google.com/maps/place/49%C2%B017'11.4%22N+7%C2%B013'57.8%22E/@49.286502,7.2321778,184m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x1b692cdb3b45ac37!7e2!8m2!3d49.2865021!4d7.2327248) in **"Alter Friedhof"**.
 <BR><BR>
 Memorial picture:<BR>
