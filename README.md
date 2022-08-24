@@ -22,4 +22,4 @@ Couple of years ago I took ~140 pictures of one memorial I found in [Kirkel, Saa
 <ins>HW used to generate model</ins>:
 - **Dell Precision Tower 7810** (10 cores Intel Xeon E5-2630 V4 2.20 GHz + 64 GB RAM + nVIDIA Quadro M4000 8GB)
 ---
-Note: The result depends mostly on how good the pictures are (**means also they have to overlap each other by 70-80%**) and sunlight conditions (**recommended when cloudy to avoid unnecessary shadows**, etc.), but anyone can do it simply at home.
+Note: The result depends mostly on how good the pictures are (**means also they have to overlap each other by 70-80%**) and sunlight conditions (**recommended when cloudy to avoid unnecessary shadows**, etc.), but anyone can do it simply at home with pretty much any camera.
