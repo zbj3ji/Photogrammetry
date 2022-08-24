@@ -14,7 +14,8 @@ Input:
 - source pictures (you can use them to do it with different settings)
 
 Output:
-- final 3D model (you can use it for free for any purpose, but please mention me as the source)
+- final 3D model for downloading (you can use it for free for any purpose, but please mention me as the source)
+- here is the picture of the model
 
 HW used to generate model:
 - **Dell Precision Tower 7810** (10 cores Intel Xeon E5-2630 V4 2.20 GHz + 64 GB RAM + nVIDIA Quadro M4000 8GB)
