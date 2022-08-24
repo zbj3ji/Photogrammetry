@@ -16,7 +16,7 @@ Couple of years ago I took ~140 pictures of one memorial I found in [Kirkel, Saa
 - source pictures (you can use them to do it with different settings)
 
 <ins>Output</ins>:
-- final 3D model for downloading (you can use it for free for any purpose, but please mention me as the source)
+- final 3D model for downloading (you can use it for **free for any purpose, but please always mention me as the source**)
 - here is the picture of the model
 
 <ins>HW used to generate model</ins>:
