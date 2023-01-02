@@ -1,3 +1,6 @@
+# Under construction!
+
+
 # Photogrammetry of Kirkel memorial I found in local cemetry
 Here just an example of the photogrammetry done by me from scratch (Photogrammetry = reconstruction process of building 3D model from many 2D images where 3rd dimension (depth) is lost). 
 <BR><BR>
