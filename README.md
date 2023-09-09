@@ -14,10 +14,11 @@ Couple of years ago I took ~130 pictures of one memorial I found in [Kirkel, Saa
 
 <ins>Input</ins>:
 - source pictures (you can use them to do it with different settings)
+![meshroom](output/screenshot.png)
 
 <ins>Output</ins>:
 - final 3D model for [downloading](https://1drv.ms/f/s!AqubZJHsswotmEcXTndyIeHlgMlM?e=BxWMZc) (you can use it for **free for any purpose, but please always mention me as the source**)
-![here](snapshot/snapshot1.png)
+![final model](snapshot/snapshot1.png)
 
 <ins>HW used to generate model</ins>:
 - **Dell Precision Tower 7810** (10 cores Intel Xeon E5-2630 V4 2.20 GHz + 64 GB RAM + nVIDIA Quadro M4000 8GB)
